@@ -23,3 +23,17 @@ Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup
 Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/database-weekend-sql-server-postgresql-azure-gratuito-e-presencial-sao-paulo-sp/2471556)
 
 Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de Andrade Filho, 379 - Santo Amaro - São Paulo/SP - CEP 04757-000
+
+![Banner do evento](img/banner.png)
+
+![Renato e Milton palestrando](img/m-21.jpg)
+
+![Renato e Milton palestrando 2](img/m-22.jpg)
+
+![Marcelo palestrando](img/m-09.jpg)
+
+![Marcelo palestrando 2](img/m-10.jpg)
+
+![Público](img/m-12.jpg)
+
+![Público 2](img/publico-03.jpg)
